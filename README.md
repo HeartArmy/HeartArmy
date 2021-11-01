@@ -72,7 +72,7 @@ coming soon ;)
 > *“We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski
 ---
 
-#### You can contact me using :grin: :
+:grin: #### Feel free to contact me using :
 
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
