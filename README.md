@@ -2,6 +2,7 @@
  <!--
 # Heyy!!!, I am [Mohammed](www.arham.comingsoon)! 
 :dart: I'm currently open to work and searching for Spring 2022 & Summer 2022 SWE Internship opportunities.<br>
+:gear: I’m currently working on my portfolio site.<br>
 -->
 
 <img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
@@ -13,9 +14,9 @@ I am a 20 year old **aspiring backend developer** who is studying **Computer Sci
 ---
 
 
-:gear: I’m currently working on my portfolio site.<br>
-:man_student: I’m currently learning about CPU architecture.<br>
-:crossed_fingers: I want to learn loads of stuff and some of that includes Distributed System and Artificial Intelligence.<br>
+:gear: I’m currently learning AngularJS <br>
+:man_student: I’m currently learning about CPU architecture <br>
+:crossed_fingers: I want to learn loads of stuff of different domains and some of that includes Distributed Systems and Artificial Intelligence.<br>
 :smiley: Pronouns: He/Him/His<br>
 :zap: Fun fact: I love The Smiths :heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots"). :100: <br>
 :book: Currently reading Project Hail Mary while listening to Space Song by Beach House. It's a vibe :sparkling_heart: <br>
