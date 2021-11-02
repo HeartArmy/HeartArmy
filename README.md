@@ -9,7 +9,7 @@
 
 I am a 20 year old **aspiring backend developer** who is studying **Computer Science** at NYU Abu Dhabi :purple_heart:
 
-#### I love coding to automate stuff and for social good. Currently trying to get better at low level programming using C++
+#### I love coding to automate stuff and for social good. Currently trying to get better at low level programming using C++. 
 
 ---
 
@@ -20,6 +20,7 @@ I am a 20 year old **aspiring backend developer** who is studying **Computer Sci
 :smiley: Pronouns: He/Him/His<br>
 :zap: Fun fact: I love The Smiths :heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots"). :100: <br>
 :book: Currently reading Project Hail Mary while listening to Space Song by Beach House. It's a vibe :sparkling_heart: <br>
+:performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
 
 
 ---
@@ -68,6 +69,14 @@ coming soon ;)
 
 </p>
  -->
+ 
+ #### Past Projects:
+
+:performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
+
+
+
+
 ---
 > *“We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski
 ---
