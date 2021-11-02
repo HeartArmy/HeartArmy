@@ -70,16 +70,16 @@ coming soon ;)
 </p>
  -->
  
+ 
+ 
  #### Past Projects:
 
 :performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
 
-
-
-
 ---
-> *“We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski
----
+
+
+
 
 #### Feel free to contact me :grin: : 
 
@@ -88,5 +88,8 @@ coming soon ;)
 
 [linkedin]: https://www.linkedin.com/in/mohdarham/
 [email]: mailto:maj596@nyu.edu
-![Profile views](https://gpvc.arturio.dev/heartarmy)
 
+
+> “We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski 
+
+![Profile views](https://gpvc.arturio.dev/heartarmy)
