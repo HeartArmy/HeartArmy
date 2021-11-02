@@ -7,19 +7,18 @@
 
 <img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
 
-I am a 20 year old **aspiring backend developer** who is studying **Computer Science** at NYU Abu Dhabi :purple_heart:
+I'm a 20-year-old student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: and aspiring to become a backend developer :hammer_and_wrench:. 
 
-#### I love coding to automate stuff and for social good. Currently trying to get better at low level programming using C++. 
+#### I love coding to automate stuff and for social good :partying_face:. 
 
 ---
 
 
 :gear: I’m currently learning AngularJS <br>
 :man_student: I’m currently learning about CPU architecture <br>
-:crossed_fingers: I want to learn loads of stuff of different domains and some of that includes Distributed Systems and Artificial Intelligence.<br>
-:smiley: Pronouns: He/Him/His<br>
-:zap: Fun fact: I love The Smiths :heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots"). :100: <br>
-:book: Currently reading Project Hail Mary while listening to Space Song by Beach House. It's a vibe :sparkling_heart: <br>
+:crossed_fingers: I want to learn loads of stuff of different domains and some of that includes Distributed Systems and Artificial Intelligence. I am presently trying to enhance my low level programming knowledge by studying C++ <br>
+:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots").  <br>
+:book: Currently reading Project Hail Mary and listening to Space Song by Beach House. It's a vibe! <br>
 :performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
 
 
@@ -81,7 +80,7 @@ coming soon ;)
 
 
 
-#### Feel free to contact me :grin: : 
+#### Contact me at :grin: : 
 
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
