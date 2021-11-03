@@ -7,7 +7,7 @@
 
 <img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
 
-I'm a 20-year-old student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: and aspiring to become a backend developer :hammer_and_wrench:. 
+I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: and aspiring to become a backend developer :hammer_and_wrench:. 
 
 #### I love coding to automate stuff and for social good :partying_face:. 
 
