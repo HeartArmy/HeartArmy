@@ -19,7 +19,6 @@ I'm a 20-year-old student :person_in_tuxedo:, majoring in Computer Science, at N
 :crossed_fingers: I want to learn loads of stuff of different domains and some of that includes Distributed Systems and Artificial Intelligence. I am presently trying to enhance my low level programming knowledge by studying C++ <br>
 :zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots").  <br>
 :book: Currently reading Project Hail Mary and listening to Space Song by Beach House. It's a vibe! <br>
-:performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
 
 
 ---
