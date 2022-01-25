@@ -8,8 +8,8 @@
 <img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
 
 I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:. 
-Check out my [website](https://heartarmy.github.io/) for further details and past experiences. ⚙️
-
+<!-- Check out my [website](https://heartarmy.github.io/) for further details and past experiences. ⚙️
+ -->
 
 #### I love coding to automate stuff and for social good :partying_face:. 
 
