@@ -88,9 +88,8 @@ coming soon ;)
 [linkedin]: https://www.linkedin.com/in/mohdarham/
 [email]: mailto:maj596@nyu.edu
 
-
 #### Well this is goodbye for now 👋. Here, have a cookie! 🍪 
-
+---
 > “We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski 
 
 ![Profile views](https://gpvc.arturio.dev/heartarmy)
