@@ -1,4 +1,4 @@
-# Hey there, I am Arham! 
+# Hey there, I am Mohammed Arham! 
  <!--
 # Heyy!!!, I am [Mohammed](www.arham.comingsoon)! 
 :dart: I'm currently open to work and searching for Spring 2022 & Summer 2022 SWE Internship opportunities.<br>
@@ -7,16 +7,18 @@
 
 <img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
 
-I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: and aspiring to become a backend developer :hammer_and_wrench:. 
+I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:. 
+Check out my [website](https://heartarmy.github.io/) for further details and past experiences. ⚙️
+
 
 #### I love coding to automate stuff and for social good :partying_face:. 
 
 ---
 
 
-:gear: I’m currently learning AngularJS <br>
-:man_student: I’m currently learning about CPU architecture <br>
-:crossed_fingers: I want to learn loads of stuff of different domains and some of that includes Distributed Systems and Artificial Intelligence. I am presently trying to enhance my low level programming knowledge by studying C++ <br>
+<!-- :gear: I’m currently learning AngularJS <br> -->
+:man_student: I’m currently learning about AngularJS <br>
+:crossed_fingers: I love exposing myself to other CS fields such as Distributed Systems and Machine Learning. I am presently trying to enhance my understanding of how operating systems work. <br>
 :zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive league of legend :video_game:. Got to top 2% of server / Diamond 3 before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots").  <br>
 :book: Currently reading Project Hail Mary and listening to Space Song by Beach House. It's a vibe! <br>
 
