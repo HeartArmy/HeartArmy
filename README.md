@@ -23,7 +23,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 
 <p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of server / Diamond 3 in League before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots").  <br></p>
 
-<p>:book: Currently reading Project Hail Mary and listening to Space Song by Beach House 🪐. It's a vibe ✨ <br></p>
+<p>:book: Currently reading Piranesi and listening to Space Song by Beach House 🪐. It's a vibe ✨ <br></p>
 
 ---
 
