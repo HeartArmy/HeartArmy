@@ -1,4 +1,4 @@
-# Hey there, I am Mohammed Arham! 
+# Hey there, I am Mohammed! 
  <!--
 # Heyy!!!, I am [Mohammed](www.arham.comingsoon)! 
 :dart: I'm currently open to work and searching for Spring 2022 & Summer 2022 SWE Internship opportunities.<br>
