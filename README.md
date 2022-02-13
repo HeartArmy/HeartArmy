@@ -19,9 +19,9 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <!-- :gear: I’m currently learning AngularJS <br> -->
 <p>:man_student: I’m currently learning about AngularJS <br></p>
 
-<p>:crossed_fingers: I love exposing myself to other CS fields such as Bioinformatics, Distributed Systems and Machine Learning. I am clearly still on the fence about what to specialise in for the rest of my life 😅.I am presently trying to enhance my understanding of how operating systems work. 🖼<br> </p>
+<p>:crossed_fingers: I love exposing myself to other CS fields such as Bioinformatics, Distributed Systems and Machine Learning as I am still on the fence about what to specialise in for the rest of my life 😅. I am presently trying to enhance my understanding of how operating systems work. 🖼<br> </p>
 
-<p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of server / Diamond 3 in League before I plateaued :sob:. Also, I watch a lot of shows (strongly recommend "Love, Death & Robots").  <br></p>
+<p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of euw server (Diamond 3) in League before I plateaued :sob:. I also watch a lot of tv shows (strongly recommend "Love, Death & Robots").  <br></p>
 
 <p>:book: Currently reading Piranesi and listening to Space Song by Beach House 🪐. It's a vibe ✨ <br></p>
 
