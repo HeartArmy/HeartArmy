@@ -24,7 +24,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of euw server (Diamond 3) in League before I plateaued :sob:. I also watch a lot of tv shows (strongly recommend "Love, Death & Robots").  <br></p>
 
 <!--<p>:book: Currently reading "All the Light We Cannot See" and listening to Space Song by Beach House 🪐. It's a vibe ✨ <br></p>-->
-<p>:book: Currently reading "All the Light We Cannot See", and can't take the heartbreak 🤎  <br></p>
+<p>:book: Currently reading "All the Light We Cannot See", and I can't take the heartbreak 🤎  <br></p>
 
 
 ---
