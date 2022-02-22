@@ -39,7 +39,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
 </p>
 
-#### :wrench: Technologies:
+#### Technologies:
 
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/html-5.png"/>
