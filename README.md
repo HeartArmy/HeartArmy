@@ -39,7 +39,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
 </p>
 
-#### Tech and :wrench: Stack:
+#### :wrench: Technologies:
 
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/html-5.png"/>
@@ -87,8 +87,8 @@ coming soon ;)
 
 #### Contact me at :grin: : 
 
-[<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
-[<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
+[<img align="center" src="/linkedin.png"/>][linkedin]
+[<img align="center" src="/email.png"/>][email]</br>
 
 [linkedin]: https://www.linkedin.com/in/mohdarham/
 [email]: mailto:maj596@nyu.edu
