@@ -24,7 +24,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of euw server (Diamond 3) in League before I plateaued :sob:. I also watch a lot of tv shows (strongly recommend "Love, Death & Robots").  <br></p>
 
 <!--<p>:book: Currently reading "All the Light We Cannot See" and listening to Space Song by Beach House 🪐. It's a vibe ✨ <br></p>-->
-<p>:book: Currently reading "All the Light We Cannot See" and I can't take the heartbreak 🤎  <br></p>
+<p>:book: Currently reading "Never Let Me Go" and it's a vibe ✨  <br></p>
 
 
 ---
@@ -32,26 +32,26 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 #### Programming Languages:
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/30/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/30/000000/python.png"/>
-<img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
+<img src="/c-plus-plus-logo.png"/>
+<img src="/c-programming.png"/>
+<img src="/javascript.png"/>
+<img src="/python.png"/>
+<img src="/php-logo.png"/>
 </p>
 
 #### Technologies:
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/30/000000/css3.png"/>
-<img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
-<img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/30/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/nolan/30/heroku.png"/>
+<img src="/html-5.png"/>
+<img src="/css3.png"/>
+<img src="/react.png"/>
+<img src="/bootstrap.png"/>
+<img src="/git.png"/>
+<img src="/visual-studio-code-2019.png"/>
+<img src="/heroku.png"/>
 <!-- <img src="https://img.icons8.com/color/30/000000/firebase.png"/> -->
-<img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/>
-<img src="https://img.icons8.com/color/30/000000/linux.png"/>
+<img src="/jquery.png"/>
+<img src="/linux.png"/>
 <!-- <img src="https://img.icons8.com/color/30/000000/graphql.png"/> -->
 
 </p>
@@ -59,7 +59,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 #### Databases:
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/postgreesql.png"/>
+<img src="/postgreesql.png"/>
 </p>
 
 <!-- #### DevOps:
