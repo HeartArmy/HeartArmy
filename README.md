@@ -5,7 +5,7 @@
 :gear: I’m currently working on my portfolio site.<br>
 -->
 
-<img align="right" width="25%" src ="https://i.imgur.com/oIsKpXd.gif">
+<img align="right" width="100%" src ="https://i.imgur.com/oIsKpXd.gif">
 
 I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:. Feel free to contact me at arham@nyu.edu!
 Check out my [website](https://heartarmy.github.io/) for my past experiences and skills. ⚙️
