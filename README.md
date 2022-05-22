@@ -4,11 +4,12 @@
 :dart: I'm currently open to work and searching for Spring 2022 & Summer 2022 SWE Internship opportunities.<br>
 :gear: I’m currently working on my portfolio site.<br>
 -->
-
-<img align="right" width="100%" src ="https://i.imgur.com/oIsKpXd.gif">
-
+<p align="left">
 I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:. Feel free to contact me at arham@nyu.edu!
 Check out my [website](https://heartarmy.github.io/) for my past experiences and skills. ⚙️
+</p>
+<img align="right" width="100px" src ="/lol.gif">
+
 
 
 #### I love coding to automate stuff and for social good :partying_face:. 
@@ -19,7 +20,7 @@ Check out my [website](https://heartarmy.github.io/) for my past experiences and
 <!-- :gear: I’m currently learning AngularJS <br> -->
 <p>:man_student: I’m currently learning about AngularJS <br></p>
 
-<p>:crossed_fingers: I love exposing myself to other CS fields such as Bioinformatics, Distributed Systems and Machine Learning as I am still on the fence about what to specialise in for the rest of my life 😅. I am presently trying to enhance my understanding of how operating systems work. 🖼<br> </p>
+<p>:crossed_fingers: I love exposing myself to other CS fields such as Bioinformatics, Distributed Systems and Machine Learning as I am still on the fence about what to specialise in for the rest of my life 😅. I am presently trying to enhance my understanding of how operating systems work. <br> </p>
 
 <p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of euw server (Diamond 3) in League before I plateaued :sob:. I also watch a lot of tv shows (strongly recommend "Love, Death & Robots").  <br></p>
 
@@ -95,6 +96,8 @@ coming soon ;)
 
 #### Well this is goodbye for now 👋. Here, have a cookie! 🍪 
 ---
-> “We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski 
+<!-- > “We’re all going to die, all of us. What a circus! That alone should make us love each other, but it doesn’t.” -Charles Bukowski  -->
+> “If you look for it, I've got a sneaky feeling you'll find that love actually is all around.” - Love Actually, 2003
+
 
 ![Profile views](https://gpvc.arturio.dev/heartarmy)
