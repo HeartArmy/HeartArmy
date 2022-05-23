@@ -5,14 +5,10 @@
 :gear: I’m currently working on my portfolio site.<br>
 -->
 <p align="left">
-I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:. Feel free to contact me at arham@nyu.edu!
-Check out my [website](https://heartarmy.github.io/) for my past experiences and skills. ⚙️
+I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:.
+Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. ⚙️
 </p>
 <img align="right" width="100px" src ="/lol.gif">
-
-
-
-#### I love coding to automate stuff and for social good :partying_face:. 
 
 ---
 
