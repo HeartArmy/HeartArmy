@@ -73,10 +73,10 @@ coming soon ;)
  
  
  
- #### Past Projects:
+<!--  #### Past Projects:
 
 :performing_arts: Developed a game called UNALTERED (located in my repo) using Processing (python)
-
+ -->
 ---
 
 
