@@ -8,7 +8,7 @@
 I'm a third year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:.
 Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. ⚙️
 </p>
-<img align="right" width="100px" src ="/lol.gif">
+<img align="right"  src ="/lol.gif">
 
 ---
 
