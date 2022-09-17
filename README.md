@@ -13,8 +13,8 @@ Check out my <a href="https://heartarmy.github.io/">website</a> for my past expe
 ---
 
 
-<!-- :gear: I’m currently learning AngularJS <br> -->
-<p>:man_student: I’m currently learning about AngularJS <br></p>
+<!-- :gear: I’m currently learning AngularJS <br> 
+<p>:man_student: I’m currently learning about AngularJS <br></p>-->
 
 <p>:crossed_fingers: I love exposing myself to other CS fields such as Bioinformatics, Distributed Systems and Machine Learning as I am still on the fence about what to specialise in for the rest of my life 😅. I am presently trying to enhance my understanding of how operating systems work. <br> </p>
 
