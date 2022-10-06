@@ -5,7 +5,7 @@
 :gear: I’m currently working on my portfolio site.<br>
 -->
 <p align="left">
-I'm a final year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: with an interest in backend development among other CS domains :hammer_and_wrench:.
+I'm a final year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: who loves learning about how programming works under the hood! :hammer_and_wrench:.
 Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. ⚙️
 </p>
 <img align="right"  src ="/lol.gif">
