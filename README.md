@@ -16,7 +16,7 @@ Check out my <a href="https://heartarmy.github.io/">website</a> for my past expe
 <!-- :gear: I’m currently learning AngularJS <br> 
 <p>:man_student: I’m currently learning about AngularJS <br> still on the fence about what to specialise in for the rest of my life </p>-->
 
-<p>:crossed_fingers: I love exposing myself to other CS fields such as Mobile Development (Kotlin), Linux Programming and Machine Learning as I believe it helps in increasing perceptivity. I am presently blown away by how compiler optimizations work (it's magic to me 🪄). <br> </p>
+<p>:crossed_fingers: I love exposing myself to other CS fields such as Android Development (Kotlin), Linux Programming and Deep Learning as I believe it helps in increasing technical perceptivity. I am presently blown away by how compiler optimizations work (it's like magic to me 🪄). <br> </p>
 
 <p>:zap: Fun fact: I love The Smiths :sparkling_heart: and watching competitive League of Legends :video_game:. Got to top 2% of euw server (Diamond 3) in League before I plateaued :sob:. I also watch a lot of tv shows (strongly recommend "Love, Death & Robots").  <br></p>
 
