@@ -96,4 +96,5 @@ coming soon ;)
 > “If you look for it, I've got a sneaky feeling you'll find that love actually is all around.” - Love Actually, 2003
 
 
-![Profile views](https://gpvc.arturio.dev/heartarmy)
+<!-- ![Profile views](https://gpvc.arturio.dev/heartarmy) -->
+![Profile views](https://komarev.com/ghpvc/?username=heartarmy)
