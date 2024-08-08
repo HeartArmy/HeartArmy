@@ -5,8 +5,8 @@
 :gear: I’m currently working on my portfolio site.<br>
 -->
 <p align="left">
-I'm a final year student :person_in_tuxedo:, majoring in Computer Science, at NYU Abu Dhabi :purple_heart: who loves learning about how programming works under the hood! :hammer_and_wrench:.
-Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. ⚙️
+I'm a CS graduate from NYU Abu Dhabi :purple_heart: who loves learning about how programming works under the hood! :hammer_and_wrench:.
+Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. Email me at marhamc@icloud.com ⚙️
 </p>
 <img align="right"  src ="/lol.gif">
 
