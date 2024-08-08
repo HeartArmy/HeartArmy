@@ -6,7 +6,7 @@
 -->
 <p align="left">
 I'm a CS graduate from NYU Abu Dhabi :purple_heart: who loves learning about how programming works under the hood! :hammer_and_wrench:.
-Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. Email me at marhamc@icloud.com ⚙️
+Check out my <a href="https://heartarmy.github.io/">website</a> for my past experiences. Email me at arhampersonal@icloud.com ⚙️
 </p>
 <img align="right"  src ="/lol.gif">
 
