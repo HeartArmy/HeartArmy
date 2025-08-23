@@ -1,6 +1,6 @@
 Trying to be more perceptive before the AGI overlords take over everything. This is my google drive but for code.
 
-Website - marhamx.vercel.app
+Website - arhamx.vercel.app
 
 Contact - arhampersonal at icloud dot com
 
