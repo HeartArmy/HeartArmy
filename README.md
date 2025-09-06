@@ -1,4 +1,4 @@
-Trying to be more perceptive before the AGI overlords take over everything. This is my google drive but for code.
+Trying to be more perceptive before the AGI overlords take over everything. This is my google drive for code.
 
 Website - arhamx.vercel.app
 
