@@ -4,4 +4,4 @@ Website - https://arhamx.vercel.app
 
 Contact - arhampersonal at icloud dot com
 
-We all complete. Maybe none of us really understand what we've lived through, or feel we've had enough time. - Kazuo Ishiguro
+"We all complete. Maybe none of us really understand what we've lived through, or feel we've had enough time." - Kazuo Ishiguro
